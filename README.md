@@ -12,7 +12,7 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/narayan-raghuwanshi/Video-Player-with-Notes.git
+git clone https://github.com/narayxnnn/my-tube.git
 ```
 - Provide Youtube API access through [Google Cloud Console](https://developers.google.com/gmail/api/quickstart/nodejs) and download the get API Key from it.
 ```bash
